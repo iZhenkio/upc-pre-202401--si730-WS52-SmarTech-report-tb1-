@@ -33,6 +33,40 @@ En SmartTech, estamos comprometidos con una serie de valores fundamentales que g
 7.  **Respeto:** Mantenemos un ambiente amigable y respetuoso de forma interna y externa en todo momento, tanto para nuestros trabajadores como para nuestros clientes.
 8. **Transparencia y confianza:** Actuamos con integridad en todas nuestras interacciones, proporcionando información clara y precisa sobre las propiedades disponibles, las empresas que venden las propiedades, los precios y los términos de compra.
 
+### 1.1.2 Perfiles de integrantes del equipo
+
+#### Mallma Quispe, Rubén Elías - U202214234 - Ingeniería de Software
+
+Me llamo Rubén Mallma Quispe y soy un ingeniero de software. Me gusta escuchar música, estar en compañía de mis seres queridos, y sobre todo ser una persona de éxito. Actualmente estoy trabajando como desarrollador en una empresa naciente y me alegra estar ya poniendo en práctica todos mis conociementos. Como algunas de mis habilidades técnicas puedo decir que sé los lenguajes de programación de C++, Java y Kotlin sólidamente, y sigo aprendiendo. Gracias por leer esta descripción; en este maravilloso proyecto, desempeñaré el rol de **Scrum Member**.
+
+---
+
+#### Shimabukuro Uku, Carlos Joel - U201912407 - Ingeniería de Software
+
+Mi nombre es Carlos Joel Shimabukuro Uku, soy un estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), actualmente cursando el quinto ciclo académico. Tengo experiencia principalmente en la programación orientada a objetos utilizando el lenguaje de C++, al igual que un conocimiento básico en HTML, CSS y Java Script. En este trabajo, tengo como meta la de aplicar todo lo aprendido en el transcurso del proyecto y conseguir un mejor entendimiento acerca de mi rol como futuro profesional. A modo de desarrollar el proyecto, desempañere el rol de **Scrum Member**.
+
+---
+#### Trigueros Chumacero, Flavio Eduardo - U202210190 - Ingeniería de Software
+
+Soy una persona detallista, trabajadora y que siempre hace lo posible por mejorar. Mis características me permiten avanzar los trabajos de forma rápida, adecuada y ágil, siempre apoyando a mis compañeros en lo posible y esforzandome en cada vez entregar un mejor producto. Asimismo, tengo conocimientos en distintos lenguajes y modelos de programación como C++, Python, HTML y CSS, MySQL, MongoDB y Cyprus. A modo de desarrollar el proyecto, desempañere el rol de **Product Owner**.
+
+---
+#### Valenzuela Huillcaya, Aldhair Johan Juan - U20201F572 - Ingeniería de Software
+
+Soy estudiante de Ingeniería de software en la Universidad peruana de Ciencias Aplicadas (UPC). Me considero una persona altamente responsable, organizada, puntual y empática. Mi capacidad de adaptación a entornos cambiantes y habilidad para trabajar colaborativamente en equipo son aspectos destacados de mi perfil. Tengo conocimientos en Python, C++, HTML, CSS, Javascript, MySQL, MongoDB y SQLite. A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Member**
+
+---
+
+#### Yen Cerna, Lucio Heli - U202213143 - Ingeniería de Software
+Soy una persona líder, autodidacta y dedicada. Mis características me permiten tener un gran impacto en el trabajo en equipo debido a que siempre busco que todos los integrantes, entreguemos el mejor entregable posible y aprendamos durante el desarrollo del proyecto. Por otro lado, tengo conocimientos en C++, HTML, CSS, git bash, MsSql y MongoDB, los cuáles serán beneficiosos para cumplir con el Student Outcome y criterios de evaluación del curso.  A modo de desarrollar el proyecto, desempeñaré el rol de **Scrum Master**.
+
+Motivación:<br>
+Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
+
+> Puede que todos los días no sean buenos, pero hay algo bueno en cada día
+
+<img src="./assets/img/profile-lucio.png" alt="Lucio Heli Yen Cerna">
+---
 ## 1.2. Solution Profile
 
 En SmartTech, buscamos entregar productos de calidad a nuestros usuarios para que puedan tener más seguridad, precisión y comodidad durante todos los procesos de adquisición de propiedades y en los bienes raíces. Con el fin de conseguir esta meta, hemos planteado la programación avanzada de nuestra aplicación estrella: Propertunity.
