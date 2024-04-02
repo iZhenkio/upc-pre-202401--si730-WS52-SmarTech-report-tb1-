@@ -65,7 +65,7 @@ Seguir creciendo mis aptitudes profesionales como ingenierio de Software.<br>
 
 > Puede que todos los días no sean buenos, pero hay algo bueno en cada día
 
-<img src="./assets/img/profile-lucio.png" alt="Lucio Heli Yen Cerna">
+<img src="assets/profile-lucio.png" alt="Lucio Heli Yen Cerna"> 
 ---
 ## 1.2. Solution Profile
 
